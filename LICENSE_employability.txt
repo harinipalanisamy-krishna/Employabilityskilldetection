@@ -1,0 +1,23 @@
+Copyright (c) 2026 Harini P, Harshini S, Hari Varshini C, Gayathri V
+
+All Rights Reserved.
+
+This repository contains code associated with research accepted at ICTEST 2026
+(International Conference on Testing and Evaluation of Software and Systems).
+
+This code is shared publicly for portfolio, demonstration, and academic 
+reference purposes only.
+
+You may NOT:
+- Copy, modify, or redistribute this code
+- Use this code in your own projects, academic submissions, or publications
+- Claim this work, in part or whole, as your own
+
+You MAY:
+- View this code to evaluate the author's work and skills
+- Reference this work with proper citation to the original publication
+
+For collaboration, permissions, or academic citation requests, 
+please contact the author directly.
+
+Contact: harininithya16@gmail.com
